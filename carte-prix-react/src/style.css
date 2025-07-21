@@ -1,0 +1,79 @@
+/* Style global */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('https://img.freepik.com/vecteurs-libre/arriere-plan-style-futuriste_23-2148497523.jpg?t=st=1753016852~exp=1753020452~hmac=17e34d27f33e4277f4125f92036b6a1057ecbb56c8bc30a6f4e553f6da6df90c&w=1480');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding-bottom: 80px; /* Pour ne pas que le contenu soit caché par le footer */
+}
+
+/* Titre principal */
+.main-title {
+  text-align: center;
+  color: rgb(234, 228, 228);
+  font-size: 36px;
+  margin: 40px 0 30px;
+  text-shadow: 2px 2px 5px rgba(200, 9, 9, 0.7);
+}
+
+/* Carte de prix */
+.card {
+  width: 300px;
+  margin: 20px auto;
+  background-color: rgba(206, 178, 224, 0.95);
+  box-shadow: 0 0 10px #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.card-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.card-price {
+  font-size: 18px;
+  color: green;
+  margin-bottom: 10px;
+}
+
+.card-features {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 15px;
+}
+
+.card-features li {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.card-btn {
+  background: rgb(56, 69, 138);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.card-btn:hover {
+  background: darkblue;
+}
+
+/* Footer fixé en bas */
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(52, 61, 98, 0.425);
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+}
