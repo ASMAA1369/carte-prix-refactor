@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carte-prix-refactor/static/css/main.7754acdb.css",
+    "main.js": "/carte-prix-refactor/static/js/main.46a019dd.js",
+    "static/js/453.5bd4af18.chunk.js": "/carte-prix-refactor/static/js/453.5bd4af18.chunk.js",
+    "index.html": "/carte-prix-refactor/index.html",
+    "main.7754acdb.css.map": "/carte-prix-refactor/static/css/main.7754acdb.css.map",
+    "main.46a019dd.js.map": "/carte-prix-refactor/static/js/main.46a019dd.js.map",
+    "453.5bd4af18.chunk.js.map": "/carte-prix-refactor/static/js/453.5bd4af18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7754acdb.css",
+    "static/js/main.46a019dd.js"
+  ]
+}
