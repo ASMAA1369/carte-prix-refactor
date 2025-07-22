@@ -73,6 +73,21 @@ L’application affiche plusieurs cartes de prix bien stylisées, réutilisables
 Le code est clair, organisé, et prêt à évoluer facilement.
 
 ---
+## Utilisation de l'IA dans ce projet
+
+Pour la réalisation et la correction de ce projet, j'ai utilisé ChatGPT (modèle GPT-4) d'OpenAI.  
+
+Voici un exemple d'invite IA (prompt) utilisée pour obtenir de l'aide :  
+
+> *"Peux-tu m'aider à corriger les erreurs d'import dans mon projet React, en particulier les erreurs liées aux chemins des fichiers et à la configuration de `package.json` pour le déploiement sur GitHub Pages ?"*
+
+Cette aide m’a permis de :  
+- Corriger les imports relatifs  
+- Configurer le déploiement avec `gh-pages`  
+- Organiser les dossiers du projet  
+- Rédiger les scripts npm nécessaires
+
+---
 
 Auteur :  
 Asmaa – Juillet 2025  
